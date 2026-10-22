@@ -1,0 +1,3 @@
+Requirement ID,User Story ID,Requirement Summary,Source / Stakeholder,Priority,Design / Build Reference,UAT Script ID,Test Result (Pass/Fail/Blocked),Defect IDs,Sign-off / Date
+BR-01,US-01,"[Fictional example] Customer can view live order status",Bakery owner (fictional),Must,Order status page v1,UAT-01,,,,
+BR-02,US-02,"[Fictional example] Staff can update order status",Bakery owner (fictional),Must,Staff status update screen,UAT-02,,,,
